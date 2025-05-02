@@ -84,9 +84,9 @@ The frontend will typically run at `http://localhost:3000`.
 
 ## 🖼️ Screenshots
 
-| Dashboard View | Transactions Table |
+| Transactions Table | Dashboard View |
 |----------------|--------------------|
-| ![Dashboard](./screenshots/overview.png) | ![Transactions](./screenshots/overview2.png) |
+| ![Transactions](./screenshots/overview.png) | ![Dashboard](./screenshots/overview2.png) |
 
 ---
 
