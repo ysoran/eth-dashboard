@@ -90,16 +90,6 @@ The frontend will typically run at `http://localhost:3000`.
 
 ---
 
-## 🛠️ To-Do
-
-- [ ] Improve CSS responsiveness and alignment (esp. sidebar + tables)
-- [ ] Add filters and sorting to transaction table
-- [ ] Implement wallet address search
-- [ ] Add unit tests (Jest or Vitest)
-- [ ] Add dark/light theme toggle
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
