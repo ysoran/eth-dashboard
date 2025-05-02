@@ -3,11 +3,6 @@
 
 A full-stack blockchain analytics dashboard for tracking Ethereum transactions in real time. It provides insights like total transaction volume, status ratios, top addresses, block metrics, and more.
 
-<div align="center">
-  <img src="./screenshots/overview.png" width="90%" />
-  <img src="./screenshots/overview2.png" width="90%" />
-</div>
-
 ## ✨ Features
 
 - Real-time Ethereum transaction tracking
@@ -91,7 +86,7 @@ The frontend will typically run at `http://localhost:3000`.
 
 | Dashboard View | Transactions Table |
 |----------------|--------------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Transactions](./screenshots/transactions.png) |
+| ![Dashboard](./screenshots/overview.png) | ![Transactions](./screenshots/overview2.png) |
 
 ---
 
